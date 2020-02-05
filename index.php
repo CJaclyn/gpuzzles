@@ -4,7 +4,7 @@ require 'db_configuration.php';
 include('header.php');
 
 ?>
-
+<!-- THIS IS A COMMENT -->
 <html>
     <head>
         <title>Gpuzzles</title>
